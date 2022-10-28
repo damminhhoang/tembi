@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://damminhhoang.github.io/tembi</link>
 	<description></description>
-	<lastBuildDate>Thu, 27 Oct 2022 16:50:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Oct 2022 05:11:11 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>BLOG</title>
-		<link>https://damminhhoang.github.io/tembi/trang-tri-phong-khach/</link>
-					<comments>https://damminhhoang.github.io/tembi/trang-tri-phong-khach/#respond</comments>
+		<link>https://damminhhoang.github.io/tembi/trang-tri-phong-khach-dep/</link>
+					<comments>https://damminhhoang.github.io/tembi/trang-tri-phong-khach-dep/#respond</comments>
 		
 		<dc:creator><![CDATA[MinhHoang]]></dc:creator>
 		<pubDate>Thu, 27 Oct 2022 16:40:48 +0000</pubDate>
@@ -94,7 +94,7 @@
 <p><iframe loading="lazy" class="giphy-embed" src="https://giphy.com/embed/3oEduY9vzp0VSk0xQA" width="480" height="320" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p><a href="https://giphy.com/gifs/archdaily-architecture-furniture-interior-design-3oEduY9vzp0VSk0xQA" target="_blank" rel="noopener"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">qua GIPHY</span></span></a></p>]]></content:encoded>
 					
-					<wfw:commentRss>https://damminhhoang.github.io/tembi/trang-tri-phong-khach/feed/</wfw:commentRss>
+					<wfw:commentRss>https://damminhhoang.github.io/tembi/trang-tri-phong-khach-dep/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
